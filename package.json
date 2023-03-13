@@ -37,6 +37,6 @@
   "author": "Dk Saha",
   "license": "MIT",
   "dependencies": {
-    "xmldom": "^0.1.27"
+    "@xmldom/xmldom": "^0.8.6"
   }
 }
